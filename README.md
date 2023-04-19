@@ -2,7 +2,7 @@
 
 My name is Théo and I'm a french developer 🇫🇷 🥖
 
-- :school: I'm currently studying at [42 Paris](https://42.fr/) since 2021.
+- :school: I am currently a student at [42 Paris](https://42.fr/) since 2021.
 - :robot: I'm currently working on IA and ML projects
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsannie&count_private=true&show_icons=true&theme=dark)
